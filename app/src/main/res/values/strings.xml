@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week1</string>
+    <string name="button">Button</string>
+    <string name="change">Change</string>
+    <string name="on_off">HIDE/UNHIDE PICTURE</string>
+    <string name="change_btn">Change Picture</string>
+</resources>
